@@ -1,0 +1,27 @@
+.wrapper {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+body {
+  background-color: #03011f;
+  color: #6cacc5;
+}
+
+button {
+  width: 200px;
+  padding: 20px 20px;
+  border: none;
+  margin: 20px 20px;
+  background: rgba(42, 50, 113, .28);
+  color: #6cacc5;
+}
+.mg,.stopwatch-heading{
+  margin: 20px 0;
+}
+.mg{
+  font-size: 1.5rem;
+}
